@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Distortion
-  m_Shader: {fileID: 4800000, guid: 5e88ed109e2e98b42ab9b8a6be2d36f0, type: 3}
+  m_Shader: {fileID: 4800000, guid: df056d176fc1144e1a39d56741ce157e, type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -51,7 +51,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NoiseTex:
-        m_Texture: {fileID: 2800000, guid: 1028b1be859f33e49868d9bdc65e12ff, type: 3}
+        m_Texture: {fileID: 2800000, guid: 40c722c34936d4ceb9baa127d16305a9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
