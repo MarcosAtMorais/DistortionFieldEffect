@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1B4D7A85-C483-AD4B-3CED-1DDB2A01704F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Distortion Effect Assets/DistortionShader.shader">
+    <Files>
+      <File FileName="Assets/Distortion Effect Assets/DistortionShader.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
