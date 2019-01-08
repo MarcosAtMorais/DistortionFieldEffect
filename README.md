@@ -8,5 +8,3 @@
 [![Unity3D](https://img.shields.io/badge/Unity-3D-blue.svg)](https://unity3d.com/)
 
 This is a custom shader dedicated to create a distortion effect by using background matrix interpolation.
-
-## More information coming soon!
